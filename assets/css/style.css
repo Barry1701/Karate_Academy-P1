@@ -200,6 +200,7 @@ border:1px double #FFFFFF;
 .contact-section {
     margin-bottom: 26px;
     font-size: 20px;
+    letter-spacing: 1px;
 }
 .social-media a {
     text-decoration: none;
