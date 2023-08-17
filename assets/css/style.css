@@ -7,7 +7,7 @@ body {
 
 /*Navigation*/
 #nav {
-    background-color: #B0C4DE;
+    background-color: #DEB887;
     padding: 10px;
 
 }
@@ -41,36 +41,37 @@ body {
 #header {
     background-color: #FAEBD7;
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     padding: 0;
-    
-    
+
+
 }
+
 .image {
     flex: 1;
-    
-   
-    
 
-    
-    
 }
+
 .header-name {
     flex: 1;
     text-align: center;
-    font-size: 30px;
-    color:#000080;
-    
+    font-size: 20px;
+    color: #000080;
+
 }
+
 .header-name p {
-    color:#000000;
+    color: #000080;
+    font-weight: bold;
 }
+
 .image img {
     display: block;
-        width: 100%;
-        height: 100%;
-        margin: 0;
-        padding: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
 
 }
 
@@ -79,51 +80,106 @@ body {
 main {
     background-color: #B0C4DE;
 }
+
 /*Style About section*/
 #about {
     padding: 20px;
     text-align: center;
+    
 }
+
 #about h2 {
     font-size: 30px;
-    color:#000080;
+    color: #000080;
     margin-bottom: 10px;
+    
 }
+
 #about h3 {
-    font-size:25px;
-    color:#000080;
+    font-size: 25px;
+    color: #000080;
     margin-bottom: 20px;
 }
+
 /*Offer Section*/
 .offer {
-    padding:40px;
+    padding: 40px;
 }
+
 .offer p {
     font-size: 21px;
 }
+
 .offer li {
     font-size: 17px;
     line-height: 1.5;
     margin-bottom: 15px;
 
-    
+
 }
+
 .field-border {
-border: 2px groove #008080;
+    border: 2px groove #008080;
 }
+
 /*Style table section*/
 .timetable {
-    padding:40px;
+    padding: 40px;
     text-align: center;
 }
+
 .table {
-  border-collapse: collapse;
-  width:50%;
+    border-collapse: collapse;
+    width: 30%;
+
+
+}
+
+th,
+td {
+    border: 2px groove #008080;
+    padding: 5px;
+}
+/*Style sign Up section*/
+#sign-up {
+    background-color: #DEB887;
+}
+#sign-up h2  {
+   
+ font-size: 31px;
+ color:#000080;
+ text-align: center;
+ margin-bottom: 28px;
+ padding:10px;
     
 }
-th, td {
-    border:2px groove #008080;
+.signup-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+    
+}
+.signup-form label {
+    font-size: 20px;
+    padding: 13px;
+    margin-bottom: 10px;
+}
+.signup-form input {
     padding:5px;
+    width:15%;
+    border: 2px ridge #FFFFFF;
+}
+.signup-button {
+padding:5px 12px;
+cursor: pointer;
+font-weight: bold;
+margin-top: 10px;
+background-color: #000080;
+color:#FFFFFF;
+border-radius: 50%;
+border:1px double #FFFFFF;
+
 }
 
 /*Footer*/
