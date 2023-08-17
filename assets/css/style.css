@@ -35,6 +35,9 @@ body {
     font-weight: bold;
 
 }
+.nav-links a:hover {
+    text-decoration: underline;
+}
 
 
 /*Header Section*/
@@ -131,8 +134,7 @@ main {
 .table {
     border-collapse: collapse;
     width: 30%;
-
-
+    
 }
 
 th,
@@ -171,7 +173,7 @@ td {
     border: 2px ridge #FFFFFF;
 }
 .signup-button {
-padding:5px 12px;
+padding:10px 13px;
 cursor: pointer;
 font-weight: bold;
 margin-top: 10px;
@@ -179,10 +181,47 @@ background-color: #000080;
 color:#FFFFFF;
 border-radius: 50%;
 border:1px double #FFFFFF;
-
+}
+.signup-button:hover {
+    color: #FF0000;
 }
 
-/*Footer*/
-footer {
+
+
+
+/*Style footer section*/
+#footer {
     background-color: #FAEBD7;
+    padding: 20px;
+    text-align: center;
+    
+
+}
+.contact-section {
+    margin-bottom: 26px;
+    font-size: 20px;
+}
+.social-media a {
+    text-decoration: none;
+    color:#000080
+}
+.social-media ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.social-media li {
+font-size: 30px;
+}
+.social-media a.youtube {
+    color:#FF0000;
+    
+}
+
+.social-media a.twitter {
+    color: #000000;
+}
+.social-media a.instagram {
+    color: #C71585;
 }
