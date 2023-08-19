@@ -21,11 +21,12 @@ body {
 
 .nav-links li {
     margin-right: 20px;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 #logo {
     margin-right: auto;
+    font-size: 25px;
 
 }
 
@@ -231,4 +232,26 @@ font-size: 30px;
 }
 .social-media a.instagram {
     color: #C71585;
+}
+/*Media query section (max-width: 768px)*/
+@media(max-width: 768px) {
+    .nav-links {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 0;
+        margin: 0;
+    }
+    .nav-links li {
+        margin: 10px;
+        letter-spacing: 1px;
+    }
+    #header {
+        flex-direction: column;
+    }
+    .image {
+        padding: 0;
+    }
+    .header-name {
+        padding:20px;
+    }
 }
