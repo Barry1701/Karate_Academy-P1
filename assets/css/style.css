@@ -3,7 +3,7 @@ body {
     margin: 0;
     font-family: 'Tinos',
         serif;
-        
+
 }
 
 /*Navigation*/
@@ -37,6 +37,7 @@ body {
     font-weight: bold;
 
 }
+
 .nav-links a:hover {
     text-decoration: underline;
 }
@@ -55,7 +56,7 @@ body {
 
 .image {
     flex: 1;
-    padding:20px;
+    padding: 20px;
 
 }
 
@@ -91,14 +92,14 @@ main {
 #about {
     padding: 20px;
     text-align: center;
-    
+
 }
 
 #about h2 {
     font-size: 30px;
     color: #000080;
     margin-bottom: 10px;
-    
+
 }
 
 #about h3 {
@@ -116,8 +117,8 @@ main {
     padding: 40px;
 }
 
-.offer p {
-    font-size: 21px;
+.offer h4 {
+    letter-spacing: 1px;
 }
 
 .offer li {
@@ -138,10 +139,10 @@ main {
 
 .table {
     border-collapse: collapse;
-    width:50%;
+    width: 50%;
     margin: 0 auto;
-    
-    
+
+
 }
 
 th,
@@ -149,46 +150,53 @@ td {
     border: 2px groove #008080;
     padding: 5px;
 }
+
 /*Style sign Up section*/
 #sign-up {
     background-color: #DEB887;
 }
-#sign-up h2  {
-   
- font-size: 31px;
- color:#000080;
- text-align: center;
- margin-bottom: 23px;
- padding:10px;
-    
+
+#sign-up h2 {
+
+    font-size: 31px;
+    color: #000080;
+    text-align: center;
+    margin-bottom: 23px;
+    padding: 10px;
+
 }
+
 .signup-form {
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 15px;
-    
+
 }
+
 .signup-form label {
     font-size: 20px;
     padding: 13px;
     margin-bottom: 10px;
 }
+
 .signup-form input {
-    padding:5px;
-    width:15%;
+    padding: 5px;
+    width: 15%;
     border: 2px ridge #FFFFFF;
 }
+
 .signup-button {
-padding:10px 14px;
-cursor: pointer;
-font-weight: bold;
-margin: 20px;
-background-color: #000080;
-color:#FFFFFF;
-border-radius: 50%;
-border:1px double #FFFFFF;
+    padding: 10px 14px;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 20px;
+    background-color: #000080;
+    color: #FFFFFF;
+    border-radius: 50%;
+    border: 1px double #FFFFFF;
 }
+
 .signup-button:hover {
     color: #FF0000;
 }
@@ -201,47 +209,54 @@ border:1px double #FFFFFF;
     background-color: #FAEBD7;
     padding: 10px 0;
     text-align: center;
-    
-    
+
+
 
 }
+
 .contact-section {
     margin-bottom: 26px;
     font-size: 20px;
     letter-spacing: 1px;
-   
+
 }
+
 .contact-section h2 {
     color: #000080;
 }
 
 .social-media a {
     text-decoration: none;
-    color:#000080
+    color: #000080
 }
+
 .social-media ul {
     list-style: none;
     display: flex;
     justify-content: space-between;
-    margin:10px;
-    padding:0;
-   
-    
+    margin: 10px;
+    padding: 0;
+
+
 }
+
 .social-media li {
-font-size: 30px;
+    font-size: 30px;
 }
+
 .social-media a.youtube {
-    color:#FF0000;
-    
+    color: #FF0000;
+
 }
 
 .social-media a.twitter {
     color: #000000;
 }
+
 .social-media a.instagram {
     color: #C71585;
 }
+
 /*Media query section (max-width: 768px)*/
 @media(max-width: 768px) {
     .nav-links {
@@ -250,21 +265,23 @@ font-size: 30px;
         padding: 0;
         margin: 0;
     }
+
     .nav-links li {
         margin: 10px;
         letter-spacing: 1px;
     }
+
     #header {
         flex-direction: column;
     }
+
     .image {
         padding: 0;
     }
+
     .header-name {
-        padding:20px;
+        padding: 20px;
     }
-    
-     
+
+
 }
-
-
