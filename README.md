@@ -11,7 +11,7 @@ Karate Academy is a website desing to privide information about Martial Arts Aca
 
 ### **Navigation**
 
-The navigation bar is design to enhace user experience by providing ease access to different sections of the website. It includes the following features: 
+The navigation bar is design to enhace user experience by providing ease access to different sections of the website. It includes the following features:
 
 * **Karate Academy:** Clicking on the logo, takes you will be directed to the header section whre you can view the Karate Academy image and name.
 * **About Us:** Users can learn about the academy's background, philospohy and offerings by clicking on this link.
@@ -20,5 +20,21 @@ The navigation bar is design to enhace user experience by providing ease access 
 
 The navigation section ensures that users can explore the website's content effortlessly and engage with the academy's services.
 
+![Navigation Bar](documentation/navigation.PNG)
 
 ---
+
+### **The Header**
+
+* The "Header" section of the Karate Academy website is a captivating introduction to the site's content.
+* It features an engaging image that visually represent the spirit of karate practice.
+* Accompanied by the academy's name and a compelling tagline, the header immediately communicates its purpose and values.
+* This carefully designed header establishes a strong connection with visitors and sets the tone for their exploration of the website.
+
+![Header](documentation/header.PNG)
+
+---
+
+
+
+
