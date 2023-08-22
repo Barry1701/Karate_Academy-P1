@@ -58,3 +58,29 @@ The navigation section ensures that users can explore the website's content effo
 * It displays essential contact information including phone number, email address and physical address.
 
 ![Contact Section](documentation/contact.PNG)
+
+---
+
+## Testing
+
+---
+
+### **_Manual Testing:_**
+
+* I tested navigation links to ensure that they lead to the corrext section.
+* I tested that this webpage works in different browsers.
+* I checked responsiveness on various devices to ensure consistent user experience.
+* I have confirmed that the form works: requires entry in the every field, will only accept an email in email field and the submit button works.
+
+### **_Bugs:_**
+
+* I resolved alligment issues in the header and footer sections
+* I fixed error i had in my index.html file (which was only a typo)
+
+### **_W3C Validation:_**
+
+* Validated HTML and CSS files using W3C validators to ensure compliance with web standards.
+
+### **_Accessibility:_**
+
+* I checked accessibility using Lighthouse to ensure the site meets accessibility standards.
