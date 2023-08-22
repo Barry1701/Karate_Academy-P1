@@ -20,8 +20,6 @@ The navigation section ensures that users can explore the website's content effo
 
 ![Navigation Bar](documentation/navigation.PNG)
 
----
-
 ### **_The Header_**
 
 * The "Header" section of the Karate Academy website is a captivating introduction to the site's content.
