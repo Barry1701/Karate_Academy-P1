@@ -7,8 +7,6 @@ Karate Academy is a website desing to privide information about Martial Arts Aca
 
 ## Features
 
----
-
 ### **_Navigation_**
 
 The navigation bar is design to enhace user experience by providing ease access to different sections of the website. It includes the following features:
@@ -33,8 +31,6 @@ The navigation section ensures that users can explore the website's content effo
 
 ![Header](documentation/header.PNG)
 
----
-
 ### **_The About Us Section_**
 
 * The "About Us" section provides a concise overview of the Karate Academy's mission and values.
@@ -49,8 +45,6 @@ The navigation section ensures that users can explore the website's content effo
 
 ![Sign Up](documentation/sign_up.PNG)
 
----
-
 ### **_The Contact Section_**
 
 * The "Contact Section" offers users a direct means to connect with the Karate Academy team.
@@ -59,11 +53,7 @@ The navigation section ensures that users can explore the website's content effo
 
 ![Contact Section](documentation/contact.PNG)
 
----
-
 ## Testing
-
----
 
 ### **_Manual Testing:_**
 
@@ -76,6 +66,7 @@ The navigation section ensures that users can explore the website's content effo
 
 * I resolved alligment issues in the header and footer sections
 * I fixed error i had in my index.html file (which was only a typo)
+* I fixed font-size incosistencies for better visual cosistency.
 
 ### **_W3C Validation:_**
 
@@ -84,3 +75,27 @@ The navigation section ensures that users can explore the website's content effo
 ### **_Accessibility:_**
 
 * I checked accessibility using Lighthouse to ensure the site meets accessibility standards.
+
+## Deployment
+
+The project was deployed to GitHub Pages. To deploy:
+
+1. In the GitHub respository, navigate to the "Settings" tab.
+2. In the "Source" section dropdown, select the "Master Branch".
+3. Once the master branch is selected, the page provides a link to the completed website.
+
+Website Link: [Karate Academy](https://barry1701.github.io/Karate_Academy-P1/)
+
+## Credits
+
+### **_Content_**
+
+* The code to make social media links and favicon was inspired by CI [Love Running](https://barry1701.github.io/Love_Running/)
+
+### **_Media_**
+
+* The image in the header waqs taken from [Pexels](https://www.pexels.com/)
+
+---
+
+This Project was developed by Bartosz Stanczuk
