@@ -9,7 +9,7 @@ Karate Academy is a website desing to privide information about Martial Arts Aca
 
 ---
 
-### **Navigation**
+### **_Navigation_**
 
 The navigation bar is design to enhace user experience by providing ease access to different sections of the website. It includes the following features:
 
@@ -24,7 +24,7 @@ The navigation section ensures that users can explore the website's content effo
 
 ---
 
-### **The Header**
+### **_The Header_**
 
 * The "Header" section of the Karate Academy website is a captivating introduction to the site's content.
 * It features an engaging image that visually represent the spirit of karate practice.
@@ -35,6 +35,26 @@ The navigation section ensures that users can explore the website's content effo
 
 ---
 
+### **_The About Us Section_**
 
+* The "About Us" section provides a concise overview of the Karate Academy's mission and values.
+* Through a well structured layout, it itroduces visitors to the academy's commitment to empowering individuals of all ages through karate training.
 
+![About Us Section](documentation/about_us.PNG)
 
+### **_The Sign Up Form_**
+
+* The "Sign Up Form" provides users with a convenient way to register to karate classes.
+* Featuring a user-friendly design, the form captures essential details such as first name, last name and email address, enhancing the academy's enrollment process.
+
+![Sign Up](documentation/sign_up.PNG)
+
+---
+
+### **_The Contact Section_**
+
+* The "Contact Section" offers users a direct means to connect with the Karate Academy team.
+* With clear details presented in structured format, users can easily reach out for inquiries, bookings or any other informations needed.
+* It displays essential contact information including phone number, email address and physical address.
+
+![Contact Section](documentation/contact.PNG)
