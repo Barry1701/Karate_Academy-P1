@@ -72,9 +72,15 @@ The navigation section ensures that users can explore the website's content effo
 
 * Validated HTML and CSS files using W3C validators to ensure compliance with web standards.
 
+![W3C html validator](documentation/w3c_html.PNG)
+
+![W3C css validator](documentation/w3c_css.PNG)
+
 ### **_Accessibility:_**
 
 * I checked accessibility using Lighthouse to ensure the site meets accessibility standards.
+
+![Accessibility](documentation/accessibility.PNG)
 
 ## Deployment
 
