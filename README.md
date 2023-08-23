@@ -70,11 +70,11 @@ The navigation section ensures that users can explore the website's content effo
 
 * Validated HTML and CSS files using W3C validators to ensure compliance with web standards.
 
-![W3C html validator](documentation/html-w3c.PNG)
+![W3C html validator](documentation/w3c-html.jpg)
 
 ---
 
-![W3C css validator](documentation/css-w3c.PNG)
+![W3C css validator](documentation/w3c-css.jpg)
 
 ### **_Accessibility:_**
 
