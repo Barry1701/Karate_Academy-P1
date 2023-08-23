@@ -7,7 +7,7 @@ Karate Academy is a website desing to privide information about Martial Arts Aca
 
 ## Features
 
-### **_Navigation_**
+#### **_Navigation_**
 
 The navigation bar is design to enhace user experience by providing ease access to different sections of the website. It includes the following features:
 
@@ -18,9 +18,9 @@ The navigation bar is design to enhace user experience by providing ease access 
 
 The navigation section ensures that users can explore the website's content effortlessly and engage with the academy's services.
 
-![Navigation Bar](documentation/navigation.PNG)
+![Navigation Bar](documentation/nav-bar.PNG)
 
-### **_The Header_**
+#### **_The Header_**
 
 * The "Header" section of the Karate Academy website is a captivating introduction to the site's content.
 * It features an engaging image that visually represent the spirit of karate practice.
@@ -29,21 +29,21 @@ The navigation section ensures that users can explore the website's content effo
 
 ![Header](documentation/header.PNG)
 
-### **_The About Us Section_**
+#### **_The About Us Section_**
 
 * The "About Us" section provides a concise overview of the Karate Academy's mission and values.
 * Through a well structured layout, it itroduces visitors to the academy's commitment to empowering individuals of all ages through karate training.
 
 ![About Us Section](documentation/about_us.PNG)
 
-### **_The Sign Up Form_**
+#### **_The Sign Up Form_**
 
 * The "Sign Up Form" provides users with a convenient way to register to karate classes.
 * Featuring a user-friendly design, the form captures essential details such as first name, last name and email address, enhancing the academy's enrollment process.
 
-![Sign Up](documentation/sign_up.PNG)
+![Sign Up](documentation/sign-up.PNG)
 
-### **_The Contact Section_**
+#### **_The Contact Section_**
 
 * The "Contact Section" offers users a direct means to connect with the Karate Academy team.
 * With clear details presented in structured format, users can easily reach out for inquiries, bookings or any other informations needed.
@@ -53,24 +53,26 @@ The navigation section ensures that users can explore the website's content effo
 
 ## Testing
 
-### **_Manual Testing:_**
+#### **_Manual Testing:_**
 
 * I tested navigation links to ensure that they lead to the corrext section.
 * I tested that this webpage works in different browsers.
 * I checked responsiveness on various devices to ensure consistent user experience.
 * I have confirmed that the form works: requires entry in the every field, will only accept an email in email field and the submit button works.
 
-### **_Bugs:_**
+#### **_Bugs:_**
 
 * I resolved alligment issues in the header and footer sections
 * I fixed error i had in my index.html file (which was only a typo)
 * I fixed font-size incosistencies for better visual cosistency.
 
-### **_W3C Validation:_**
+#### **_W3C Validation:_**
 
 * Validated HTML and CSS files using W3C validators to ensure compliance with web standards.
 
 ![W3C html validator](documentation/html-w3c.PNG)
+
+---
 
 ![W3C css validator](documentation/css-w3c.PNG)
 
@@ -92,11 +94,12 @@ Website Link: [Karate Academy](https://barry1701.github.io/Karate_Academy-P1/)
 
 ## Credits
 
-### **_Content_**
+#### **_Content_**
 
 * The code to make social media links and favicon was inspired by CI [Love Running](https://barry1701.github.io/Love_Running/)
+* The code to make sign up section was inspired by learning materials and Coders Coffeehouse Project.
 
-### **_Media_**
+#### **_Media_**
 
 * The image in the header waqs taken from [Pexels](https://www.pexels.com/)
 
