@@ -67,11 +67,15 @@ body {
     color: #008080;
 
 }
+.header-name h1 {
+    letter-spacing: 2px;
+}
 
 .header-name p {
     color: #000000;
     font-weight: bold;
 }
+
 
 .image img {
     display: block;
@@ -288,6 +292,9 @@ td {
     #about h3, .contact-section p {
       font-size:16px;
     }
+        .table {
+            width: 100%;
+        }
         .signup-form input {
             width: 70%;
         }

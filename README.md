@@ -80,7 +80,7 @@ The navigation section ensures that users can explore the website's content effo
 
 * I checked accessibility using Lighthouse to ensure the site meets accessibility standards.
 
-![Accessibility](documentation/lighthouse.PNG)
+![Accessibility](documentation/lighthouse-accessibility.PNG)
 
 ## Deployment
 
