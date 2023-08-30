@@ -1,3 +1,4 @@
+/*Reset some default styles*/
 body {
     border: 0;
     margin: 0;
@@ -19,7 +20,7 @@ body {
     display: flex;
     align-items: center;
 }
-
+/*Styling for each navigation list item*/
 .nav-links li {
     margin-right: 20px;
     font-size: 20px;
@@ -53,13 +54,14 @@ body {
 
 
 }
+/*Styling for image container*/
 
 .image {
     flex: 1;
     padding: 20px;
 
 }
-
+/*Styling for the image*/
 .img {
     display: block;
     width: 100%;
@@ -68,7 +70,7 @@ body {
     padding: 0;
 
 }
-
+/*Styling for the header name container*/
 .header-name {
     flex: 1;
     text-align: center;
@@ -113,7 +115,7 @@ main {
     color: #000000;
     margin-bottom: 20px;
 }
-
+/*Border for fieldest*/
 .field-border {
     border: 2px groove #008080;
 }
@@ -171,7 +173,7 @@ td {
     padding: 20px 0 0 0;
 
 }
-
+/*Sign Up form*/
 .signup-form {
     display: flex;
     flex-direction: column;
@@ -191,7 +193,7 @@ td {
     width: 15%;
     border: 2px ridge #FFFFFF;
 }
-
+/*Sign Up Button*/
 .signup-button {
     padding: 10px 14px;
     cursor: pointer;
@@ -219,7 +221,7 @@ td {
 
 
 }
-
+/*Contact Section*/
 .contact-section {
     margin-bottom: 26px;
     font-size: 20px;
@@ -230,7 +232,7 @@ td {
 .contact-section h2 {
     color: #000080;
 }
-
+/*Social media links*/
 .social-media a {
     text-decoration: none;
     color: #000080
@@ -249,7 +251,7 @@ td {
 .social-media li {
     font-size: 30px;
 }
-
+/*Social media icon colors*/
 .social-media a.youtube {
     color: #FF0000;
 
@@ -294,6 +296,7 @@ td {
     #about h3, .contact-section p {
       font-size:16px;
     }
+    /*Adjust table and input width for better fit*/
         .table {
             width: 100%;
         }
